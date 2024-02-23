@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Vulnerability Map</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""
+    />
+    <!-- <link rel="stylesheet" type="text/css" href="CSS/election.css?v=1.0.12" /> -->
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.css" /> -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <style>
+      @font-face {
+        font-family: "Mukta";
+        src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjGmc8WD07oB-98o.woff2)
+          format("woff2");
+        unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D,
+          U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+      }
+      * :not(i) {
+        font-family: "Mukta", sans-serif;
+      }
+      #logo{
+            display: flex;
+            align-items: center;
+        }
+      .full-width-select {
+        width: 100% !important;
+        box-sizing: border-box;
+      }
+
+      .filter_menu {
+        float: right; /* Float the filter menu to the right side */
+        margin-right: 20px; /* Add some right margin for spacing */
+      }
+
+      /* .top_nav {
+        display: none;
+      }
+
+      .dist_div:hover + .top_nav {
+        display: inline-block;
+      } */
+
+      .dist_div {
+        display: flex;
+        /* justify-content: space-between; */
+        padding: 0 5% 0 2%;
+        background: #4b80d4;
+        margin-bottom: 0px;
+        /* height: 70px; */
+      }
+
+      .main-title {
+        float: left;
+        padding-left: 15px;
+        color: aliceblue;
+      }
+
+    </style>
+
+    <div class="">
+      <div class="dist_div">
+        <div id="logo"><a href="index.html"><img src="image/GIIS-logo.png" alt="GIIS" width="170"></a></div>
+        <div>
+          <h3 class="main-title">Vulnerability and Risk Assessment (MULVAR)</h3>
+        <!-- <h2 style="padding-left: 25px; padding-top: 5px; align-items: center;"> Vulnerability and Risk Assessment</h2> -->
+        </div>
+        <div id="logo" style="margin-left: auto;"><a href="index.html"><img src="image/iwmi-logo-full-trans-white-43h (1).png" alt="IWMI" width="150"></a></div>
+      </div>
+      <div class="top_nav">
+        <!-- <div id="logo"><a href="index.html"><img src="/image/GIIS-logo.png" alt="GIIS" width="170" height="auto"></a></div>
+
+        <div>
+        <h2 style="padding-left: 25px; padding-top: 5px; align-items: center;"> Vulnerability and Risk Assessment</h2>
+        </div> -->
+        
+        <div class="regions_div" style="padding-top: 0px;">
+          <div class="region_menu">
+            <ul class="region_select_ul nav nav-tabs">
+              <li class="" style="padding-left: 20px;">
+                <div class="select-box">
+                  <select id="provinceSelect">
+                    <option value="" selected disabled hidden>Province</option>
+                    <!-- <option value="All">All</option> -->
+                  </select>
+                </div>
+              </li>
+              <li class="">
+                <div class="select-box">
+                  <select id="districtSelect">
+                    <option value="">District</option>
+                  </select>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <!-- <div class="region_menu">
+            <ul class="region_select_ul nav nav-tabs">
+              <li class="" style="padding-left: 20px;">
+                <div class="select-btn">
+                  <select id="dailekhSelect">
+                    <option value="" selected disabled hidden>Dailekh</option>
+                  </select>
+                </div>
+              </li>
+            </ul>
+          </div> -->
+
+          <div class="regions_div" style="padding: 10px 10px 10px 10px;">          
+            <div class="select-box">
+            <select id="mainDropdown" onchange="populateSecondDropdown()" style="height: 30px;">
+              <option value="">Select Component</option>
+              <option value="Exposure">Exposure Indicator</option>
+              <option value="Sensitivity">Sensitivity Indicator</option>
+              <option value="Adaptive Capacity">Adaptive Capacity Indicator</option>
+              <option value="Hazard">Hazard Indicator</option>
+              <!-- <option value="Vulnerability">Vulnerability</option> -->
+            </select>
+            </div>
+            
+            <div class="select-box">
+            <select id="secondDropdown"  style="height: 30px;">
+              <option value="">Select Indicator</option>
+              <!-- <option value="sarlahi_flood">hi</option>
+              <option value="Total_Male">Total Male</option> -->
+            </select>
+            </div>
+          </div>
+
+          <div class="filter_menu">
+            <ul class="nav nav-pills" id="categories_container">
+              <li>
+                <div class="select-box">
+                  <select id="composite_filter">
+                    <option value="" selected disabled hidden>Composite Values</option>
+                    <option value="vulnerability_score">Composite Vulnerability</option>
+                    <option value="composite_sensitivity">Composite Sensitivity</option>
+                    <option value="composite_exposure">Composite Exposure</option>
+                    <option value="composite_adapcap">Composite Adaptive Capacity</option>
+                    <option value="composite_hazard">Composite Hazard</option>
+                  </select>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="filter_menu">
+						<ul class="nav nav-pills" >
+							<li class="">
+								<div class="select-btn"> 
+									<button class="btn_filter_select" id="filter_select_2" value="risk_score">
+										Risk 
+									</button>	
+                </div>
+              </li>
+						</ul>
+				  </div>
+
+          <!-- <div class="my-4">
+            <div style="padding: 0">
+              <ul class="nav nav-pills page_nav">
+                <li class="active" style="padding-right: 0px">
+                  <a data-toggle="pill" href="index1.html" id="button">Raw Data</a>
+                </li>
+              </ul>
+            </div>
+          </div> -->
+
+          <button id="dataTableButton">
+            <a href="[insert_link]" target="_blank" style="text-decoration: none; color: inherit;">
+                Raw Data
+            </a>
+          </button>
+          
+
+          <!-- <div class="filter_menu">
+						<ul class="nav nav-pills" id="categories_container" >
+							<li class="party_mode" style="display:none">
+								<div class="select-btn" id=""> 
+                  <a href="dataTable/index.html">
+									<button class="btn_filter_select" value="nothing">
+										Party 
+									</button>
+                  </a>
+								</div>
+							</li>
+              </ul>
+          </div> -->
+
+        
+
+        
+        
+        
+      </div>
+
+    </div>
+
+    <script>
+      async function fetchJSONData() {
+        const response = await fetch('json/data.json');
+        const jsonData = await response.json();
+        return jsonData;
+      }
+      
+      async function populateSecondDropdown() {
+        const mainDropdown = document.getElementById("mainDropdown");
+        const selectedComponent = mainDropdown.value;
+        const secondDropdown = document.getElementById("secondDropdown");
+        
+        // Clear the existing options in the second dropdown
+        secondDropdown.innerHTML = '<option value="">Select Indicator</option>';
+    
+        console.log(secondDropdown);
+        if (selectedComponent === "") {
+          return; // No component selected, so do nothing
+        }
+    
+        // Fetch JSON data
+        const jsonData = await fetchJSONData();
+    
+        // Filter the JSON data to get indicators associated with the selected component
+        const indicators = jsonData.filter((item) => item.Component === selectedComponent);
+        
+        // Populate the second dropdown with the filtered indicators
+        indicators.forEach((indicator) => {
+          const option = document.createElement("option");
+          option.value = indicator["Indicator Name"];
+          option.text = indicator["Indicator Name"].replace(/_/g, ' ');
+          secondDropdown.appendChild(option);
+        });
+      }
+
+      // Add an event listener to the second dropdown to apply filters to the map
+      const secondDropdown = document.getElementById("secondDropdown");
+      // secondDropdown.addEventListener("change", function () {
+      //   const selectedIndicator = secondDropdown.value.replace(/_/g, ' ');
+        // console.warn(secondDropdown);
+
+      //   // const style = component_indicator(selectedIndicator);
+        
+      //   // Apply filters to the map based on the selected indicator
+      //   // You can add your map filtering logic here
+      //   // For example, update the map markers or layers based on the selected indicator
+      //   // This part depends on how your map is implemented.
+      //   // Example: filterMap(selectedIndicator);
+      // });
+    
+      // Populate the second dropdown when the page loads
+      // populateSecondDropdown();
+    </script>
+    
+
+<!-- <script>    
+function calculateTotalValue() {
+            const secondDropdown = document.getElementById("secondDropdown");
+            const selectedIndicator = secondDropdown.value;
+
+            // Find the selected indicator in the data
+            const hazard = data.find((item) => item["Indicator Name"] === selectedIndicator);
+
+            if (!hazard) {
+                console.error("Indicator not found in data");
+                return;
+            }
+
+            // Modify the column name based on the selected indicator
+            const columnName = hazard["Indicator Name"];
+            var totalValue = parseFloat(hazard[columnName]);
+
+            console.log("Total Value:", totalValue);
+        }
+
+</script> -->
+
+<!-- <script>
+  // Get the button and the dropdown select element
+const floodButton = document.getElementById("dailekh_hazard");
+const candidateFilters = document.getElementById("candidate_filters");
+
+// Add a click event listener to the button
+floodButton.addEventListener("click", function() {
+  // Set the selected option to "Flood" in the dropdown
+  candidateFilters.value = "dailekh_hazard";
+  // Trigger the change event to simulate the selection
+  candidateFilters.dispatchEvent(new Event("change"));
+});
+</script> -->
+
+    <!-- <script>
+      // Wait for the page to load
+      document.addEventListener("DOMContentLoaded", function() {
+        // Find the button element by its ID
+        var button = document.getElementById("button");
+        
+        // Add a click event listener to the button
+        button.addEventListener("click", function() {
+          // Navigate to "index2.html"
+          window.location.href = button.getAttribute("href");
+        });
+      });
+    </script> -->
+  
+    <!-- <script type="text/javascript" src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script> -->
+    <!-- <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script> -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.1/dist/leaflet.js"></script>
+
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <script src="js/jquery.csv.min.js" type="text/javascript"></script>
+
+    <div id="map" style="max-height:88.5vh; width: 100vw; height: 89vh;">
+      <!-- <div id="accordion" class="summary_div">
+        <div id="info_div" class="info_div">
+          
+        </div>
+        
+      </div> -->
+      <div id="map_info"></div>
+    </div>
+   
+    <!-- </script> -->
+
+    <!-- <script>
+      // Get references to the select elements
+      const componentSelect = document.getElementById('componentSelect');
+      const indicatorSelect = document.getElementById('indicatorSelect');
+    
+      // Define a function to update "indicatorSelect" options based on the selected component
+      function updateIndicatorOptions() {
+        // Get the selected component value
+        const selectedComponent = componentSelect.value;
+    
+        // Clear all options in "indicatorSelect"
+        indicatorSelect.innerHTML = '<option value="" selected disabled hidden>Indicator</option>';
+    
+        // Filter indicators based on the selected component and add them to "indicatorSelect"
+        const indicators = document.querySelectorAll(`[data-component="${selectedComponent}"]`);
+        indicators.forEach(indicator => {
+          const option = document.createElement('option');
+          option.value = indicator.value;
+          option.textContent = indicator.textContent;
+          indicatorSelect.appendChild(option);
+        });
+      }
+    
+      // Add event listener to "componentSelect" to trigger the update function on change
+      componentSelect.addEventListener('change', updateIndicatorOptions);
+    </script> -->
+    
+
+    <!-- <script src="DataTable/js/data.js"></script>
+    <script src="DataTable/js/dataSet.js"></script>
+    <script src="DataTable/js/script.js"></script> -->
+   
+    <!-- <script type="text/javascript" src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script> -->
+
+  </body>
+
+  
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
+    <script src="js/templates.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/data.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/global.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/filters.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/summary.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/render.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/legends.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/init.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/actions.js?v=1.0.12" type="text/javascript"></script>
+  <script src="js/popups.js?v=1.0.12" type="text/javascript"></script>
+</html>

@@ -1,0 +1,183 @@
+Indicator Header,Indicator Name,Component,Class,Remarks
+Total Male,Total number of male population,Exposure,Human,
+Total Female,Total number of female population,Exposure,Human,
+Population density,Population density,Sensitivity,Human,
+Household Count Change (2011-2021),Change in Household number (2011-2021),Exposure,Human,
+Population Change (2011-2021),Population Change (2011-2021),Exposure,Human,
+Percentage of population change,Percentage of population change (2011-2021),Exposure,Human,Added after IWMI discussion
+Average number of people per household (family size),Average number of people per household ,Sensitivity,Human,
+Percentage of religious minority population,Percentage of religious minority population,Sensitivity,Social,
+Percentage of absentee population,Percentage of absentee population,Sensitivity,Human,
+Number of male migrants,Total number of male migrants,Sensitivity,Human,
+Number of physically disabled persons,Total number of physically disabled persons,Sensitivity,Human,
+Percentage of economically active population,Percentage of economically active population,Adaptive Capacity,Human,
+Number of adolescent population (10-19 years),Total number of adolescent population (10-19 years),Sensitivity,Human,
+Percentage of population < 5 years,Percentage of population < 5 years,Sensitivity,Human,
+Number of infants (vulnerable group),Total number of infants (vulnerable group),Sensitivity,Human,
+Number of women of reproductive age (15-45 years) (vulnerable group),Total number of women of reproductive age (15-45 years) (vulnerable group),Sensitivity,Human,
+Number of girls and women above age 15,Total number of girls and women above age 15,Sensitivity,Human,
+Number of girls under age 15,Total number of girls under age 15,Sensitivity,Human,
+Number of boys under age 15,Total number of boys under age 15,Sensitivity,Human,
+Percentage of female-headed households,Percentage of female-headed households,Sensitivity,Social,
+Percentage of households with household assets,Percentage of households with household assets,Adaptive Capacity,Social,
+Percentage of families occupying rented houses,Percentage of families occupying rented houses,Sensitivity,Social,
+Percentage of households with television access,Percentage of households with television access,Adaptive Capacity,Financial,
+Percentage of households that are female owned,Percentage of households that are female owned,Adaptive Capacity,Financial,
+Percentage of households with land owned by female,Percentage of households with land owned by female,Adaptive Capacity,Financial,
+Percentage of population who cannot read and write (illiteracy),Percentage of population who cannot read and write (illiteracy),Sensitivity,Social,
+Percentage of population who only completed school leaving certificate (SLC),Percentage of population who only completed school leaving certificate (SLC),Adaptive Capacity,Social,
+Percentage of population who completed college degree,Percentage of population who completed college degree,Adaptive Capacity,Social,
+"Percentage of employed in agriculture, forestry, fishing, mining, and quarrying","Percentage of employed in agriculture, forestry, fishing, mining, and quarrying",Sensitivity,Financial,
+Percentage of employed in manufacturing and construction,Percentage of employed in manufacturing and construction,Sensitivity,Financial,
+"Percentage of employed in transportation, communication, and other public utilities","Percentage of employed in transportation, communication, and other public utilities",Adaptive Capacity,Financial,
+Percentage of employed in accommodation and food services,Percentage of employed in accommodation and food services,Adaptive Capacity,Financial,
+"Percentage of employed in public administration, defense, and social security","Percentage of employed in public administration, defense, and social security",Adaptive Capacity,Financial,
+Percentage of employed in trade and commerce,Percentage of employed in trade and commerce,Adaptive Capacity,Financial,
+Percentage of households with access to internet,Percentage of households with access to internet,Adaptive Capacity,Financial,
+Percentage of households without access to communication and transportation means (no amenities),Percentage of households without access to communication and transportation means (no amenities),Sensitivity,Financial,
+Percentage of households without electricity,Percentage of households without electricity,Sensitivity,Financial,
+"Percentage of population without access to (improved) sanitation (e.g., Toilet)","Percentage of population without access to (improved) sanitation (e.g., Toilet)",Sensitivity,Financial,
+Percentage of households that use firewood as fuel source,Percentage of households that use firewood as fuel source,Sensitivity,Financial,
+Percentage of households with Mud bonded bricks/ stone foundation,Percentage of households with Mud bonded bricks/ stone foundation,Sensitivity,Financial,
+Percentage of households with Cement bonded bricks/ stone foundation,Percentage of households with Cement bonded bricks/ stone foundation,Adaptive Capacity,Financial,
+Percentage of households with Reinforced Cement Concrete with pillars foundation,Percentage of households with Reinforced Cement Concrete with pillars foundation,Adaptive Capacity,Financial,
+Percentage of households with Wooden pillars foundation,Percentage of households with Wooden pillars foundation,Sensitivity,Financial,
+Percentage of households with Other foundation,Percentage of households with Other foundation,Sensitivity,Financial,
+Percentage of households with Tap/piped water (within premises),Percentage of households with Tap/piped water (within premises),Adaptive Capacity,Physical,
+Percentage of households with Tap/piped water (outside premises),Percentage of households with Tap/piped water (outside premises),Sensitivity,Physical,
+Percentage of households with Tubewell / handpump,Percentage of households with Tubewell / handpump,Adaptive Capacity,Physical,
+Percentage of households with Covered well/kuwa,Percentage of households with Covered well/kuwa,Sensitivity,Physical,
+Percentage of households with Uncovered well/kuwa,Percentage of households with Uncovered well/kuwa,Sensitivity,Physical,
+Percentage of households with Spout water*,Percentage of households with Spout water*,Sensitivity,Environmental,
+Percentage of households with River /stream,Percentage of households with River /stream,Sensitivity,Environmental,
+Percentage of households with Jar / bottle,Percentage of households with Jar / bottle,Adaptive Capacity,Financial,
+Percentage of households with Other Drinking Water,Percentage of households with Other Drinking Water,Sensitivity,Environmental,
+Percentage of households with Electricity lighting,Percentage of households with Electricity lighting,Adaptive Capacity,Financial,
+Percentage of households with Solar lighting,Percentage of households with Solar lighting,Adaptive Capacity,Financial,
+Percentage of households with Kerosene lighting,Percentage of households with Kerosene lighting,Sensitivity,Financial,
+Percentage of households with Bio gas lighting,Percentage of households with Bio gas lighting,Adaptive Capacity,Financial,
+Percentage of households with Other lighting,Percentage of households with Other lighting,Sensitivity,Financial,
+Acute Gastro-Enteritis (AGE) Cases,Total number of acute gastro-enteritis (age) cases,Exposure,Human,
+Ameobic Dysentery/Amoebiasis Cases,Total number of ameobic dysentery/amoebiasis cases,Exposure,Human,
+Bacillary Dysentery/Shigellosis Cases,Total number of bacillary dysentery/shigellosis cases,Exposure,Human,
+Bacterial Intestinal Infection Cases,Total number of bacterial intestinal infection cases,Exposure,Human,
+Cholera Cases,Total number of cholera cases,Exposure,Human,
+Hepatitis A Cases,Total number of hepatitis a cases,Exposure,Human,
+Hepatitis E Cases,Total number of hepatitis e cases,Exposure,Human,
+Intestinal Worms Cases,Total number of intestinal worms cases,Exposure,Human,
+Jaundice Cases,Total number of jaundice cases,Exposure,Human,
+Presumed Non-Infectious Diarrhoea Cases,Total number of presumed non-infectious diarrhoea cases,Exposure,Human,
+Typhoid (Enteric Fever) Cases,Total number of typhoid (enteric fever) cases,Exposure,Human,
+Volume Depletion (Dehydration) Cases,Total number of volume depletion (dehydration) cases,Exposure,Human,
+Neonatal Conjunctivitis,Total number of neonatal conjunctivitis,Exposure,Human,
+Conjunctivitis Cases,Total number of conjunctivitis cases,Exposure,Human,
+Japanese Encephalitis Cases,Total number of japanese encephalitis cases,Exposure,Human,
+Scrub Typhus,Total number of scrub typhus,Exposure,Human,
+Acute Encephalitis like Syndrome (AES) Cases,Total number of acute encephalitis like syndrome (aes) cases,Exposure,Human,
+Clinical Malaria Cases,Total number of clinical malaria cases,Exposure,Human,
+Dengue Fever Cases,Total number of dengue fever cases,Exposure,Human,
+Filariasis Cases,Total number of filariasis cases,Exposure,Human,
+Kala-Azar/Leshmaniasis Cases,Total number of kala-azar/leshmaniasis cases,Exposure,Human,
+Malaria (Plasmodium Mix),Total number of malaria (plasmodium mix),Exposure,Human,
+Malaria (Plasmodium Falciparum) Cases,Total number of malaria (plasmodium falciparum) cases,Exposure,Human,
+Malaria (Plasmodium Vivax) Cases,Total number of malaria (plasmodium vivax) cases,Exposure,Human,
+Acute Flaccid Paralysis (AFP) Cases,Total number of acute flaccid paralysis (afp) cases,Exposure,Human,
+Anaemia/Polyneuropathy Cases,Total number of anaemia/polyneuropathy cases,Exposure,Human,
+Avitaminoses & Other Nutrient Deficiency Cases,Total number of avitaminoses & other nutrient deficiency cases,Exposure,Human,
+Number of flood incidence,Total number of flood incidence,Hazard,Environmental,
+Number of avalanche incidence,Total number of avalanche incidence,Hazard,Environmental,
+Number of landslide incidence,Total number of landslide incidence,Hazard,Environmental,
+Number of coldwaves incidence,Total number of coldwaves incidence,Hazard,Environmental,
+Number of heatwaves incidence,Total number of heatwaves incidence,Hazard,Environmental,
+Number of hailstorm incidence,Total number of hailstorm incidence,Hazard,Environmental,
+Number of windstorm incidence,Total number of windstorm incidence,Hazard,Environmental,
+Number of lightning incidence,Total number of lightning incidence,Hazard,Environmental,
+Number of fire incidence,Total number of fire incidence,Hazard,Environmental,
+Number of household damaged by flood,Total number of household damaged by flood,Hazard,Environmental,
+Number of household damaged by landslide,Total number of household damaged by landslide,Hazard,Environmental,
+Number of death by avalanche,Total number of death by avalanche,Hazard,Environmental,
+Number of death by landslide,Total number of death by landslide,Hazard,Environmental,
+Number of death by cold waves,Total number of death by cold waves,Hazard,Environmental,
+Number of death by heat waves,Total number of death by heat waves,Hazard,Environmental,
+Number of death by fire,Total number of death by fire,Hazard,Environmental,
+Number of death by storms,Total number of death by storms,Hazard,Environmental,
+Air Pollution Area,Air Pollution Area,Hazard,Environmental,
+Total expected live birth,Total expected live birth,Sensitivity,Human,
+Total expected pregnancies,Total expected pregnancies,Sensitivity,Human,
+Sum of ice_days,Total sum of number of icing days (ID),Hazard,Environmental,
+Sum of frost_days,Total sum of number of frost days (FD),Hazard,Environmental,
+Sum of Consecutive dry days,"Total number of consecutive dry days (CDD), Maximum length of dry spell, maximum number of consecutive days with RR < 1mm",Hazard,Environmental,
+Sum of Consecutive wet days,"Total sum of Consecutive wet days, Maximum length of wet spell: maximum number of consecutive days with RR ≥ 1mm",Hazard,Environmental,
+Sum of Extremely wet days,Total number of days with extremely very wet days R99pTOT,Hazard,Environmental,
+Sum of Very wet days,Total number of days with very wet days R95pTOT,Hazard,Environmental,
+Sum of Warm spell duration indicator,"Warm spell duration indicator (WSDI), Annual count of days with at least 6 consecutive days when TX > 90th percentile",Hazard,Environmental,
+Sum of Cold spell during indicator,"Cold spell duration indicator (CSDI), Cold speel duration index: Annual count of days with at least 6 consecutive days when TN < 10th percentile",Hazard,Environmental,
+Sum of Simple daily intensity index,Total sum of Simple daily intensity index (Simple precipitation intensity index),Hazard,Environmental,
+Sum of Growing season length,Total sum of Growing season length (Growing season length),Hazard,Environmental,
+Sum of Number of heavy precipitation days,Total sum of Number of heavy precipitation days (Annual count of days when PRCP ≥ 10mm),Hazard,Environmental,
+Sum of Number of very heavy precipitation days,Total number of days very heay rain days (R20m),Hazard,Environmental,
+Sum of Annual total wet-day precipitation,Total number of annual total wet-day PR (PRECTOT),Hazard,Environmental,
+Sum of Cool days,Total sum of Cool days (Percentage of days when TX < 10th percentile),Hazard,Environmental,
+Sum of Warm days,Total number of days with TX greater than 90th percentage (50th percentage),Hazard,Environmental,
+Sum of Max Tmax,Total number of monthly maximum value of daily maximum temperature (hot days),Hazard,Environmental,
+Sum of Warm nights,Total sum of Warm nights (Percentage of days when TN > 90th percentile),Hazard,Environmental,
+Sum of Min Tmax,Total number of Monthly maximum value of daily minimum temperature (hot nights),Hazard,Environmental,
+Sum of Min Tmin,"Total sum of TNn (Minimum value of daily minimum temperature, cold nights)",Hazard,Environmental,
+Sum of Max Tmin,"Total sum of Max Tmin (Maximum value of daily minimum temperature, hot nights)",Hazard,Environmental,
+Sum of Diurnal temperature range,Total sum of Diurnal temperature range (Daily temperature range),Hazard,Environmental,
+Sum of Max 1-day precipitation amount,Total sum of Max 1-day precipitation amount (Maximum 1-day precipitation),Hazard,Environmental,
+Sum of Max 5-day precipitation amount,Monthly maximum consecutive 5-day precipitation (Rx5day),Hazard,Environmental,
+Slope of ice_days,Slope sum of number of icing days (ID),Hazard,Environmental,Added after IWMI discussion
+Slope of frost_days,Slope sum of number of frost days (FD),Hazard,Environmental,Added after IWMI discussion
+Slope of Consecutive dry days,"Slope number of consecutive dry days (CDD), Maximum length of dry spell, maximum number of consecutive days with RR < 1mm",Hazard,Environmental,Added after IWMI discussion
+Slope of Consecutive wet days,"Slope sum of Consecutive wet days, Maximum length of wet spell: maximum number of consecutive days with RR ≥ 1mm",Hazard,Environmental,Added after IWMI discussion
+Slope of Extremely wet days,Slope number of days with extremely very wet days R99pTOT,Hazard,Environmental,Added after IWMI discussion
+Slope of Very wet days,Slope number of days with very wet days R95pTOT,Hazard,Environmental,Added after IWMI discussion
+Slope of Warm spell duration indicator,"Slope Warm spell duration indicator (WSDI), Annual count of days with at least 6 consecutive days when TX > 90th percentile",Hazard,Environmental,Added after IWMI discussion
+Slope of Cold spell during indicator,"Slope Cold spell duration indicator (CSDI), Cold speel duration index: Annual count of days with at least 6 consecutive days when TN < 10th percentile",Hazard,Environmental,Added after IWMI discussion
+Slope of Simple daily intensity index,Slope sum of Simple daily intensity index (Simple precipitation intensity index),Hazard,Environmental,Added after IWMI discussion
+Slope of Growing season length,Slope sum of Growing season length (Growing season length),Hazard,Environmental,Added after IWMI discussion
+Slope of Number of heavy precipitation days,Slope sum of Number of heavy precipitation days (Annual count of days when PRCP ≥ 10mm),Hazard,Environmental,Added after IWMI discussion
+Slope of Number of very heavy precipitation days,Slope number of days very heay rain days (R20m),Hazard,Environmental,Added after IWMI discussion
+Slope of Annual total wet-day precipitation,Slope number of annual Slope wet-day PR (PRECTOT),Hazard,Environmental,Added after IWMI discussion
+Slope of Cool days,Slope sum of Cool days (Percentage of days when TX < 10th percentile),Hazard,Environmental,Added after IWMI discussion
+Slope of Warm days,Slope number of days with TX greater than 90th percentage (50th percentage),Hazard,Environmental,Added after IWMI discussion
+Slope of Max Tmax,Slope number of monthly maximum value of daily maximum temperature (hot days),Hazard,Environmental,Added after IWMI discussion
+Slope of Warm nights,Slope sum of Warm nights (Percentage of days when TN > 90th percentile),Hazard,Environmental,Added after IWMI discussion
+Slope of Min Tmax,Slope number of Monthly maximum value of daily minimum temperature (hot nights),Hazard,Environmental,Added after IWMI discussion
+Slope of Min Tmin,"Slope sum of TNn (Minimum value of daily minimum temperature, cold nights)",Hazard,Environmental,Added after IWMI discussion
+Slope of Max Tmin,"Slope sum of Max Tmin (Maximum value of daily minimum temperature, hot nights)",Hazard,Environmental,Added after IWMI discussion
+Slope of Diurnal temperature range,Slope sum of Diurnal temperature range (Daily temperature range),Hazard,Environmental,Added after IWMI discussion
+Slope of Max 1-day precipitation amount,Slope sum of Max 1-day precipitation amount (Maximum 1-day precipitation),Hazard,Environmental,Added after IWMI discussion
+Slope of Max 5-day precipitation amount,Slope Monthly maximum consecutive 5-day precipitation (Rx5day),Hazard,Environmental,Added after IWMI discussion
+Median Slope,Median Slope,Exposure,Environmental,
+Median Elevation,Median Elevation,Exposure,Environmental,
+SD of slope,Standard deviation of slope,Exposure,Environmental,Added after IWMI discussion
+SD of elevation,Standard deviation of elevation,Exposure,Environmental,Added after IWMI discussion
+Forest fire area,Total burnt area (2000-2022),Sensitivity,Environmental,
+Sex ratio,Sex ratio (male: 100 females),Sensitivity,Human,
+Percentage deforested area,Percentage deforested area (2000-2022) ,Sensitivity,Environmental,
+Percentage agriculture land area,Percentage agriculture land area based on 2019 LULC map,Sensitivity,Environmental,
+Temperature change,Rate of temperature change,Hazard,Environmental,
+Precipitation variability,Coefficient of variation of precipitation,Hazard,Environmental,
+Vegetation area,Percentage of vegetation coverage,Exposure,Environmental,
+Physical remoteness,Distance_Physical Remoteness in Nepal,Sensitivity,Physical,
+Access to roads,Access to roads (number of people in palika per road kilometer),Sensitivity,Physical,
+Percentage of Dalit population,Percentage of Dalit population,Sensitivity,Social,No data
+Municipality with Clean and Healthy Living Behaviour program (PHBS),Municipality with Clean and Healthy Living Behaviour program (PHBS),Adaptive capacity,Political (and institutional),No data
+Number of water purification services,Number of water purification services,Adaptive capacity,Physical,No data
+Municipality with a specific WASH action plan,Municipality with a specific WASH action plan,Adaptive capacity,Political (and institutional),No data
+Municipality with a specific disaster action plan,Municipality with a specific disaster action plan,Adaptive capacity,Political (and institutional),No data
+Percentage of household population with E. coli in household drinking water,Percentage of household population with E. coli in household drinking water,Sensitivity,Physical,No data
+Percentage of poor households ,Percentage of poor households ,Sensitivity,Financial,No data
+Water fetching duration over 3 hours,Water fetching duration over 3 hours,Sensitivity,Physical,No data
+Water fetching duration between 1-3 hours,Water fetching duration between 1-3 hours,Sensitivity,Physical,No data
+Water schemes need major repair,Water schemes need major repair,Sensitivity,Political (and institutional),No data
+Water schemes need rehabilitation,Water schemes need rehabilitation,Sensitivity,Political (and institutional),No data
+Amount of tariff collected by water supply scheme in rupees,Amount of tariff collected by water supply scheme in rupees,Sensitivity,Political (and institutional),No data
+Number of households using beach/chlorine as water treatment,Number of households using beach/chlorine as water treatment,Sensitivity,Political (and institutional),No data
+Number of households using water treatment as - Use a water filter,Number of households using water treatment as - Use a water filter,Sensitivity,Political (and institutional),No data
+Number of households using solar disinfection as water treatment,Number of households using solar disinfection as water treatment,Sensitivity,Political (and institutional),No data
+Number of households with rainwater harvesting,Number of households with rainwater harvesting,Sensitivity,Physical,No data
+Number of schemes with Water Users and Sanitation Committee  registered,Number of schemes with Water Users and Sanitation Committee  registered,Sensitivity,Political (and institutional),No data
+Number of schemes with Water Supply and Sanitation Technician,Number of schemes with Water Supply and Sanitation Technician,Sensitivity,Political (and institutional),No data

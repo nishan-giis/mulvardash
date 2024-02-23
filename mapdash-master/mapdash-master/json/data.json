@@ -1,0 +1,994 @@
+[
+  {
+    "id": 1,
+    "Indicator Name": "Percentage_of_economically_active_population",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 2,
+    "Indicator Name": "Percentage_of_households_with_household_assets",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 3,
+    "Indicator Name": "Percentage_of_households_with_television_access",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 4,
+    "Indicator Name": "Percentage_of_households_that_are_female_owned",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 5,
+    "Indicator Name": "Percentage_of_households_with_land_owned_by_female",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 6,
+    "Indicator Name": "Percentage_of_population_who_only_completed_school_leaving_certificate_(SLC)",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 7,
+    "Indicator Name": "Percentage_of_population_who_completed_college_degree",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 8,
+    "Indicator Name": "Percentage_of_employed_in_transportation,_communication,_and_other_public_utilities",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 9,
+    "Indicator Name": "Percentage_of_employed_in_accommodation_and_food_services",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 10,
+    "Indicator Name": "Percentage_of_employed_in_public_administration,_defense,_and_social_security",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 11,
+    "Indicator Name": "Percentage_of_employed_in_trade_and_commerce",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 12,
+    "Indicator Name": "Percentage_of_households_with_access_to_internet",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 13,
+    "Indicator Name": "Percentage_of_households_with_cement_bonded_bricks/stone_foundation",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 14,
+    "Indicator Name": "Percentage_of_households_with_Reinforced_Cement_Concrete_with_pillars_foundation",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 15,
+    "Indicator Name": "Percentage_of_households_with_tap/piped_water_(within_premises)",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 16,
+    "Indicator Name": "Percentage_of_households_with_Covered_well/kuwa",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 17,
+    "Indicator Name": "Percentage_of_households_with_covered_well/kuwa",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 18,
+    "Indicator Name": "Percentage_of_households_with_jar/bottle",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 19,
+    "Indicator Name": "Percentage_of_households_with_solar_lighting",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 20,
+    "Indicator Name": "Percentage_of_households_with_biogas_lighting",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 21,
+    "Indicator Name": "Total_male",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 22,
+    "Indicator Name": "Total_female",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 23,
+    "Indicator Name": "Household_count_change_(2011-2021)",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 24,
+    "Indicator Name": "Population_change_(2011-2021)",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 25,
+    "Indicator Name": "Acute_Gastro-Enteritis_(AGE)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 26,
+    "Indicator Name": "Ameobic_Dysentery/Amoebiasis_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 27,
+    "Indicator Name": "Bacillary_Dysentery/Shigellosis_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 28,
+    "Indicator Name": "Cholera_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 29,
+    "Indicator Name": "Hepatitis_A_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 30,
+    "Indicator Name": "Hepatitis_E_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 31,
+    "Indicator Name": "Intestinal_Worms_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 32,
+    "Indicator Name": "Jaundice_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 33,
+    "Indicator Name": "Presumed_Non-Infectious_Diarrhoea_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 34,
+    "Indicator Name": "Typhoid_(Enteric_Fever)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 35,
+    "Indicator Name": "Volume_Depletion_(Dehydration)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 36,
+    "Indicator Name": "Conjunctivitis_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 37,
+    "Indicator Name": "Acute_Encephalitis_like_Syndrome_(AES)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 38,
+    "Indicator Name": "Dengue_Fever_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 39,
+    "Indicator Name": "Kala-Azar/Leshmaniasis_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 40,
+    "Indicator Name": "Malaria_(Plasmodium_Falciparum)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 41,
+    "Indicator Name": "Malaria_(Plasmodium_Vivax)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 42,
+    "Indicator Name": "Acute_Flaccid_Paralysis_(AFP)_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 43,
+    "Indicator Name": "Anaemia/Polyneuropathy_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 44,
+    "Indicator Name": "Avitaminoses_&_Other_Nutrient_Deficiency_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 45,
+    "Indicator Name": "Population_density",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 46,
+    "Indicator Name": "Sex_ratio_(male:_100_females)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 47,
+    "Indicator Name": "Average_number_of_people_per_household_(family_size)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 48,
+    "Indicator Name": "Percentage_of_religious_minority_population",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 49,
+    "Indicator Name": "Percentage_of_absentee_population",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 50,
+    "Indicator Name": "Number_of_male_migrants",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 51,
+    "Indicator Name": "Number_of_physically_disabled_persons",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 52,
+    "Indicator Name": "Number_of_adolescent_population_(10-19_years)_(vulnerable_group)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 53,
+    "Indicator Name": "Percentage_of_population_<_5_years",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 54,
+    "Indicator Name": "Number_of_infants_(vulnerable_group)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 55,
+    "Indicator Name": "Number_of_women_of_reproductive_age_(15-45_years)_(vulnerable_group)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 56,
+    "Indicator Name": "Number_of_girls_and_women_above_age_15",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 57,
+    "Indicator Name": "Number_of_girls_under_age_15",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 58,
+    "Indicator Name": "Number_of_boys_under_age_15",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 59,
+    "Indicator Name": "Percentage_of_female-headed_households",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 60,
+    "Indicator Name": "Percentage_of_dalit_population",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 61,
+    "Indicator Name": "Percentage_of_indigenous_people",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 62,
+    "Indicator Name": "Percentage_of_families_occupying_rented_houses",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 63,
+    "Indicator Name": "Percentage_of_population_who_cannot_read_and_write_(illiteracy)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 64,
+    "Indicator Name": "Percentage_of_employed_in_agriculture,_forestry,_fishing,_mining,_and_quarrying",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 65,
+    "Indicator Name": "Percentage_of_employed_in_manufacturing_and_construction",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 66,
+    "Indicator Name": "Percentage_of_households_without_access_to_communication_and_transportation_means_(no_amenities)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 67,
+    "Indicator Name": "Percentage_of_households_without_electricity",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 68,
+    "Indicator Name": "Percentage_of_population_without_access_to_(improved)_sanitation_(e.g.,_Toilet)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 69,
+    "Indicator Name": "Percentage_of_households_that_use_firewood_as_fuel_source",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 70,
+    "Indicator Name": "Percentage_of_households_with_mud_bonded_bricks/stone_foundation",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 71,
+    "Indicator Name": "Percentage_of_households_with_wooden_pillars_foundation",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 72,
+    "Indicator Name": "Percentage_of_households_with_other_foundation",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 73,
+    "Indicator Name": "Percentage_of_households_with_tap/piped_water_(outside_premises)",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 74,
+    "Indicator Name": "Percentage_of_households_with_uncovered_well/kuwa",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 75,
+    "Indicator Name": "Percentage_of_households_with_spout_water",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 76,
+    "Indicator Name": "Percentage_of_households_with_river/stream",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 77,
+    "Indicator Name": "Percentage_of_households_with_other_drinking_water",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 78,
+    "Indicator Name": "Percentage_of_households_with_kerosene_lighting",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 79,
+    "Indicator Name": "Percentage_of_households_with_other_lighting",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 80,
+    "Indicator Name": "Total_expected_live_birth",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 81,
+    "Indicator Name": "Total_expected_pregnancies",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 82,
+    "Indicator Name": "Median_slope",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 83,
+    "Indicator Name": "Median_elevation",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 85,
+    "Indicator Name": "Burnt_area_by_forest_fire",
+    "component_id": 3,
+    "Component": "Sensitivity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 86,
+    "Indicator Name": "Number_of_flood_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 87,
+    "Indicator Name": "Number_of_heat_wave_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 88,
+    "Indicator Name": "Number_of_hailstorm_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 89,
+    "Indicator Name": "Number_of_windstorm_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 90,
+    "Indicator Name": "Number_of_lightning_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 91,
+    "Indicator Name": "Number_of_fire_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 92,
+    "Indicator Name": "Number_of_household_damaged_by_flood",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 93,
+    "Indicator Name": "Number_of_household_damaged_by_landslide",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 94,
+    "Indicator Name": "Number_of_death_by_landslide",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 96,
+    "Indicator Name": "Number_of_death_by_fire",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 97,
+    "Indicator Name": "Number_of_death_by_storms",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 98,
+    "Indicator Name": "Consecutive_dry_days_(cdd)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 99,
+    "Indicator Name": "Cold_spell_duration_indicator_(csdi)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 100,
+    "Indicator Name": "Consecutive_wet_days_(cwd)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 101,
+    "Indicator Name": "Diurnal_temperature_range_(dtr)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 102,
+    "Indicator Name": "Growing_season_length_(gsl)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 103,
+    "Indicator Name": "Annual_total_wet-day_precipitation_(prcptot)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 104,
+    "Indicator Name": "Number_of_heavy_precipitation_days_(r10)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 105,
+    "Indicator Name": "Number_of_very_heavy_precipitation_days(r20mm)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 106,
+    "Indicator Name": "Very_wet_days_(r95p)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 107,
+    "Indicator Name": "Extremely_wet_days_(r99p)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 108,
+    "Indicator Name": "Max_1-day_precipitation_amount_(rx1day)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 109,
+    "Indicator Name": "Max_5-day_precipitation_amount_(rx5day)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 110,
+    "Indicator Name": "Simple_daily_intensity_index_(sdii)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 111,
+    "Indicator Name": "Warm_nights_(tn90p)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 112,
+    "Indicator Name": "Min_Tmin_(tnn)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 113,
+    "Indicator Name": "Max_Tmin_(tnx)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 114,
+    "Indicator Name": "Cool_days_(tx10p)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 115,
+    "Indicator Name": "Warm_days_(tx90p)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 116,
+    "Indicator Name": "Min_Tmax_(txn)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 117,
+    "Indicator Name": "Max_Tmax_(txx)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 118,
+    "Indicator Name": "Warm_spell_duration_indicator_(wsdi)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 119,
+    "Indicator Name": "Percentage_of_households_with_tubewell/handpump",
+    "component_id": 1,
+    "Component": "Adaptive Capacity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 120,
+    "Indicator Name": "Clinical_Malaria_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 121,
+    "Indicator Name": "Filariasis_cases",
+    "component_id": 2,
+    "Component": "Exposure",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 122,
+    "Indicator Name": "Number_of_landslide_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 123,
+    "Indicator Name": "Number_of_coldwaves_incidence",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 124,
+    "Indicator Name": "Number_of_death_by_cold_waves",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 125,
+    "Indicator Name": "Air_pollution_area",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  },
+  {
+    "id": 126,
+    "Indicator Name": "Annual_total_wet-day_precipitation_(prcptot)",
+    "component_id": 4,
+    "Component": "Hazard",
+    "": "",
+    "__1": ""
+  }
+]

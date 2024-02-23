@@ -1,0 +1,1276 @@
+[
+    {
+      "Indicator Header": "Total Male",
+      "Indicator Name": "Total number of male population",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Total Female",
+      "Indicator Name": "Total number of female population",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Population density",
+      "Indicator Name": "Population density",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Household Count Change (2011-2021)",
+      "Indicator Name": "Change in Household number (2011-2021)",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Population Change (2011-2021)",
+      "Indicator Name": "Population Change (2011-2021)",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population change",
+      "Indicator Name": "Percentage of population change (2011-2021)",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Average number of people per household (family size)",
+      "Indicator Name": "Average number of people per household ",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of religious minority population",
+      "Indicator Name": "Percentage of religious minority population",
+      "Component": "Sensitivity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of absentee population",
+      "Indicator Name": "Percentage of absentee population",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of male migrants",
+      "Indicator Name": "Total number of male migrants",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of physically disabled persons",
+      "Indicator Name": "Total number of physically disabled persons",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of economically active population",
+      "Indicator Name": "Percentage of economically active population",
+      "Component": "Adaptive Capacity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of adolescent population (10-19 years)",
+      "Indicator Name": "Total number of adolescent population (10-19 years)",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population < 5 years",
+      "Indicator Name": "Percentage of population < 5 years",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of infants (vulnerable group)",
+      "Indicator Name": "Total number of infants (vulnerable group)",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of women of reproductive age (15-45 years) (vulnerable group)",
+      "Indicator Name": "Total number of women of reproductive age (15-45 years) (vulnerable group)",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of girls and women above age 15",
+      "Indicator Name": "Total number of girls and women above age 15",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of girls under age 15",
+      "Indicator Name": "Total number of girls under age 15",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of boys under age 15",
+      "Indicator Name": "Total number of boys under age 15",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of female-headed households",
+      "Indicator Name": "Percentage of female-headed households",
+      "Component": "Sensitivity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with household assets",
+      "Indicator Name": "Percentage of households with household assets",
+      "Component": "Adaptive Capacity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of families occupying rented houses",
+      "Indicator Name": "Percentage of families occupying rented houses",
+      "Component": "Sensitivity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with television access",
+      "Indicator Name": "Percentage of households with television access",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households that are female owned",
+      "Indicator Name": "Percentage of households that are female owned",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with land owned by female",
+      "Indicator Name": "Percentage of households with land owned by female",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population who cannot read and write (illiteracy)",
+      "Indicator Name": "Percentage of population who cannot read and write (illiteracy)",
+      "Component": "Sensitivity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population who only completed school leaving certificate (SLC)",
+      "Indicator Name": "Percentage of population who only completed school leaving certificate (SLC)",
+      "Component": "Adaptive Capacity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population who completed college degree",
+      "Indicator Name": "Percentage of population who completed college degree",
+      "Component": "Adaptive Capacity",
+      "Class": "Social",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in agriculture, forestry, fishing, mining, and quarrying",
+      "Indicator Name": "Percentage of employed in agriculture, forestry, fishing, mining, and quarrying",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in manufacturing and construction",
+      "Indicator Name": "Percentage of employed in manufacturing and construction",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in transportation, communication, and other public utilities",
+      "Indicator Name": "Percentage of employed in transportation, communication, and other public utilities",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in accommodation and food services",
+      "Indicator Name": "Percentage of employed in accommodation and food services",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in public administration, defense, and social security",
+      "Indicator Name": "Percentage of employed in public administration, defense, and social security",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of employed in trade and commerce",
+      "Indicator Name": "Percentage of employed in trade and commerce",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with access to internet",
+      "Indicator Name": "Percentage of households with access to internet",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households without access to communication and transportation means (no amenities)",
+      "Indicator Name": "Percentage of households without access to communication and transportation means (no amenities)",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households without electricity",
+      "Indicator Name": "Percentage of households without electricity",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of population without access to (improved) sanitation (e.g., Toilet)",
+      "Indicator Name": "Percentage of population without access to (improved) sanitation (e.g., Toilet)",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households that use firewood as fuel source",
+      "Indicator Name": "Percentage of households that use firewood as fuel source",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Mud bonded bricks/ stone foundation",
+      "Indicator Name": "Percentage of households with Mud bonded bricks/ stone foundation",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Cement bonded bricks/ stone foundation",
+      "Indicator Name": "Percentage of households with Cement bonded bricks/ stone foundation",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Reinforced Cement Concrete with pillars foundation",
+      "Indicator Name": "Percentage of households with Reinforced Cement Concrete with pillars foundation",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Wooden pillars foundation",
+      "Indicator Name": "Percentage of households with Wooden pillars foundation",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Other foundation",
+      "Indicator Name": "Percentage of households with Other foundation",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Tap/piped water (within premises)",
+      "Indicator Name": "Percentage of households with Tap/piped water (within premises)",
+      "Component": "Adaptive Capacity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Tap/piped water (outside premises)",
+      "Indicator Name": "Percentage of households with Tap/piped water (outside premises)",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Tubewell / handpump",
+      "Indicator Name": "Percentage of households with Tubewell / handpump",
+      "Component": "Adaptive Capacity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Covered well/kuwa",
+      "Indicator Name": "Percentage of households with Covered well/kuwa",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Uncovered well/kuwa",
+      "Indicator Name": "Percentage of households with Uncovered well/kuwa",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Spout water*",
+      "Indicator Name": "Percentage of households with Spout water*",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with River /stream",
+      "Indicator Name": "Percentage of households with River /stream",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Jar / bottle",
+      "Indicator Name": "Percentage of households with Jar / bottle",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Other Drinking Water",
+      "Indicator Name": "Percentage of households with Other Drinking Water",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Electricity lighting",
+      "Indicator Name": "Percentage of households with Electricity lighting",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Solar lighting",
+      "Indicator Name": "Percentage of households with Solar lighting",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Kerosene lighting",
+      "Indicator Name": "Percentage of households with Kerosene lighting",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Bio gas lighting",
+      "Indicator Name": "Percentage of households with Bio gas lighting",
+      "Component": "Adaptive Capacity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of households with Other lighting",
+      "Indicator Name": "Percentage of households with Other lighting",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Acute Gastro-Enteritis (AGE) Cases",
+      "Indicator Name": "Total number of acute gastro-enteritis (age) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Ameobic Dysentery/Amoebiasis Cases",
+      "Indicator Name": "Total number of ameobic dysentery/amoebiasis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Bacillary Dysentery/Shigellosis Cases",
+      "Indicator Name": "Total number of bacillary dysentery/shigellosis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Bacterial Intestinal Infection Cases",
+      "Indicator Name": "Total number of bacterial intestinal infection cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Cholera Cases",
+      "Indicator Name": "Total number of cholera cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Hepatitis A Cases",
+      "Indicator Name": "Total number of hepatitis a cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Hepatitis E Cases",
+      "Indicator Name": "Total number of hepatitis e cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Intestinal Worms Cases",
+      "Indicator Name": "Total number of intestinal worms cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Jaundice Cases",
+      "Indicator Name": "Total number of jaundice cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Presumed Non-Infectious Diarrhoea Cases",
+      "Indicator Name": "Total number of presumed non-infectious diarrhoea cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Typhoid (Enteric Fever) Cases",
+      "Indicator Name": "Total number of typhoid (enteric fever) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Volume Depletion (Dehydration) Cases",
+      "Indicator Name": "Total number of volume depletion (dehydration) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Neonatal Conjunctivitis",
+      "Indicator Name": "Total number of neonatal conjunctivitis",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Conjunctivitis Cases",
+      "Indicator Name": "Total number of conjunctivitis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Japanese Encephalitis Cases",
+      "Indicator Name": "Total number of japanese encephalitis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Scrub Typhus",
+      "Indicator Name": "Total number of scrub typhus",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Acute Encephalitis like Syndrome (AES) Cases",
+      "Indicator Name": "Total number of acute encephalitis like syndrome (aes) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Clinical Malaria Cases",
+      "Indicator Name": "Total number of clinical malaria cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Dengue Fever Cases",
+      "Indicator Name": "Total number of dengue fever cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Filariasis Cases",
+      "Indicator Name": "Total number of filariasis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Kala-Azar/Leshmaniasis Cases",
+      "Indicator Name": "Total number of kala-azar/leshmaniasis cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Malaria (Plasmodium Mix)",
+      "Indicator Name": "Total number of malaria (plasmodium mix)",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Malaria (Plasmodium Falciparum) Cases",
+      "Indicator Name": "Total number of malaria (plasmodium falciparum) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Malaria (Plasmodium Vivax) Cases",
+      "Indicator Name": "Total number of malaria (plasmodium vivax) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Acute Flaccid Paralysis (AFP) Cases",
+      "Indicator Name": "Total number of acute flaccid paralysis (afp) cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Anaemia/Polyneuropathy Cases",
+      "Indicator Name": "Total number of anaemia/polyneuropathy cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Avitaminoses & Other Nutrient Deficiency Cases",
+      "Indicator Name": "Total number of avitaminoses & other nutrient deficiency cases",
+      "Component": "Exposure",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of flood incidence",
+      "Indicator Name": "Total number of flood incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of avalanche incidence",
+      "Indicator Name": "Total number of avalanche incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of landslide incidence",
+      "Indicator Name": "Total number of landslide incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of coldwaves incidence",
+      "Indicator Name": "Total number of coldwaves incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of heatwaves incidence",
+      "Indicator Name": "Total number of heatwaves incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of hailstorm incidence",
+      "Indicator Name": "Total number of hailstorm incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of windstorm incidence",
+      "Indicator Name": "Total number of windstorm incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of lightning incidence",
+      "Indicator Name": "Total number of lightning incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of fire incidence",
+      "Indicator Name": "Total number of fire incidence",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of household damaged by flood",
+      "Indicator Name": "Total number of household damaged by flood",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of household damaged by landslide",
+      "Indicator Name": "Total number of household damaged by landslide",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by avalanche",
+      "Indicator Name": "Total number of death by avalanche",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by landslide",
+      "Indicator Name": "Total number of death by landslide",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by cold waves",
+      "Indicator Name": "Total number of death by cold waves",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by heat waves",
+      "Indicator Name": "Total number of death by heat waves",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by fire",
+      "Indicator Name": "Total number of death by fire",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Number of death by storms",
+      "Indicator Name": "Total number of death by storms",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Air Pollution Area",
+      "Indicator Name": "Air Pollution Area",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Total expected live birth",
+      "Indicator Name": "Total expected live birth",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Total expected pregnancies",
+      "Indicator Name": "Total expected pregnancies",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of ice_days",
+      "Indicator Name": "Total sum of number of icing days (ID)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of frost_days",
+      "Indicator Name": "Total sum of number of frost days (FD)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Consecutive dry days",
+      "Indicator Name": "Total number of consecutive dry days (CDD), Maximum length of dry spell, maximum number of consecutive days with RR < 1mm",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Consecutive wet days",
+      "Indicator Name": "Total sum of Consecutive wet days, Maximum length of wet spell: maximum number of consecutive days with RR ≥ 1mm",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Extremely wet days",
+      "Indicator Name": "Total number of days with extremely very wet days R99pTOT",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Very wet days",
+      "Indicator Name": "Total number of days with very wet days R95pTOT",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Warm spell duration indicator",
+      "Indicator Name": "Warm spell duration indicator (WSDI), Annual count of days with at least 6 consecutive days when TX > 90th percentile",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Cold spell during indicator",
+      "Indicator Name": "Cold spell duration indicator (CSDI), Cold speel duration index: Annual count of days with at least 6 consecutive days when TN < 10th percentile",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Simple daily intensity index",
+      "Indicator Name": "Total sum of Simple daily intensity index (Simple precipitation intensity index)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Growing season length",
+      "Indicator Name": "Total sum of Growing season length (Growing season length)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Number of heavy precipitation days",
+      "Indicator Name": "Total sum of Number of heavy precipitation days (Annual count of days when PRCP ≥ 10mm)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Number of very heavy precipitation days",
+      "Indicator Name": "Total number of days very heay rain days (R20m)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Annual total wet-day precipitation",
+      "Indicator Name": "Total number of annual total wet-day PR (PRECTOT)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Cool days",
+      "Indicator Name": "Total sum of Cool days (Percentage of days when TX < 10th percentile)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Warm days",
+      "Indicator Name": "Total number of days with TX greater than 90th percentage (50th percentage)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Max Tmax",
+      "Indicator Name": "Total number of monthly maximum value of daily maximum temperature (hot days)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Warm nights",
+      "Indicator Name": "Total sum of Warm nights (Percentage of days when TN > 90th percentile)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Min Tmax",
+      "Indicator Name": "Total number of Monthly maximum value of daily minimum temperature (hot nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Min Tmin",
+      "Indicator Name": "Total sum of TNn (Minimum value of daily minimum temperature, cold nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Max Tmin",
+      "Indicator Name": "Total sum of Max Tmin (Maximum value of daily minimum temperature, hot nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Diurnal temperature range",
+      "Indicator Name": "Total sum of Diurnal temperature range (Daily temperature range)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Max 1-day precipitation amount",
+      "Indicator Name": "Total sum of Max 1-day precipitation amount (Maximum 1-day precipitation)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sum of Max 5-day precipitation amount",
+      "Indicator Name": "Monthly maximum consecutive 5-day precipitation (Rx5day)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Slope of ice_days",
+      "Indicator Name": "Slope sum of number of icing days (ID)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of frost_days",
+      "Indicator Name": "Slope sum of number of frost days (FD)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Consecutive dry days",
+      "Indicator Name": "Slope number of consecutive dry days (CDD), Maximum length of dry spell, maximum number of consecutive days with RR < 1mm",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Consecutive wet days",
+      "Indicator Name": "Slope sum of Consecutive wet days, Maximum length of wet spell: maximum number of consecutive days with RR ≥ 1mm",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Extremely wet days",
+      "Indicator Name": "Slope number of days with extremely very wet days R99pTOT",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Very wet days",
+      "Indicator Name": "Slope number of days with very wet days R95pTOT",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Warm spell duration indicator",
+      "Indicator Name": "Slope Warm spell duration indicator (WSDI), Annual count of days with at least 6 consecutive days when TX > 90th percentile",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Cold spell during indicator",
+      "Indicator Name": "Slope Cold spell duration indicator (CSDI), Cold speel duration index: Annual count of days with at least 6 consecutive days when TN < 10th percentile",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Simple daily intensity index",
+      "Indicator Name": "Slope sum of Simple daily intensity index (Simple precipitation intensity index)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Growing season length",
+      "Indicator Name": "Slope sum of Growing season length (Growing season length)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Number of heavy precipitation days",
+      "Indicator Name": "Slope sum of Number of heavy precipitation days (Annual count of days when PRCP ≥ 10mm)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Number of very heavy precipitation days",
+      "Indicator Name": "Slope number of days very heay rain days (R20m)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Annual total wet-day precipitation",
+      "Indicator Name": "Slope number of annual Slope wet-day PR (PRECTOT)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Cool days",
+      "Indicator Name": "Slope sum of Cool days (Percentage of days when TX < 10th percentile)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Warm days",
+      "Indicator Name": "Slope number of days with TX greater than 90th percentage (50th percentage)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Max Tmax",
+      "Indicator Name": "Slope number of monthly maximum value of daily maximum temperature (hot days)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Warm nights",
+      "Indicator Name": "Slope sum of Warm nights (Percentage of days when TN > 90th percentile)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Min Tmax",
+      "Indicator Name": "Slope number of Monthly maximum value of daily minimum temperature (hot nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Min Tmin",
+      "Indicator Name": "Slope sum of TNn (Minimum value of daily minimum temperature, cold nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Max Tmin",
+      "Indicator Name": "Slope sum of Max Tmin (Maximum value of daily minimum temperature, hot nights)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Diurnal temperature range",
+      "Indicator Name": "Slope sum of Diurnal temperature range (Daily temperature range)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Max 1-day precipitation amount",
+      "Indicator Name": "Slope sum of Max 1-day precipitation amount (Maximum 1-day precipitation)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Slope of Max 5-day precipitation amount",
+      "Indicator Name": "Slope Monthly maximum consecutive 5-day precipitation (Rx5day)",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Median Slope",
+      "Indicator Name": "Median Slope",
+      "Component": "Exposure",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Median Elevation",
+      "Indicator Name": "Median Elevation",
+      "Component": "Exposure",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "SD of slope",
+      "Indicator Name": "Standard deviation of slope",
+      "Component": "Exposure",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "SD of elevation",
+      "Indicator Name": "Standard deviation of elevation",
+      "Component": "Exposure",
+      "Class": "Environmental",
+      "Remarks": "Added after IWMI discussion"
+    },
+    {
+      "Indicator Header": "Forest fire area",
+      "Indicator Name": "Total burnt area (2000-2022)",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Sex ratio",
+      "Indicator Name": "Sex ratio (male: 100 females)",
+      "Component": "Sensitivity",
+      "Class": "Human",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage deforested area",
+      "Indicator Name": "Percentage deforested area (2000-2022) ",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage agriculture land area",
+      "Indicator Name": "Percentage agriculture land area based on 2019 LULC map",
+      "Component": "Sensitivity",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Temperature change",
+      "Indicator Name": "Rate of temperature change",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Precipitation variability",
+      "Indicator Name": "Coefficient of variation of precipitation",
+      "Component": "Hazard",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Vegetation area",
+      "Indicator Name": "Percentage of vegetation coverage",
+      "Component": "Exposure",
+      "Class": "Environmental",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Physical remoteness",
+      "Indicator Name": "Distance_Physical Remoteness in Nepal",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Access to roads",
+      "Indicator Name": "Access to roads (number of people in palika per road kilometer)",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": ""
+    },
+    {
+      "Indicator Header": "Percentage of Dalit population",
+      "Indicator Name": "Percentage of Dalit population",
+      "Component": "Sensitivity",
+      "Class": "Social",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Municipality with Clean and Healthy Living Behaviour program (PHBS)",
+      "Indicator Name": "Municipality with Clean and Healthy Living Behaviour program (PHBS)",
+      "Component": "Adaptive Capacity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of water purification services",
+      "Indicator Name": "Number of water purification services",
+      "Component": "Adaptive Capacity",
+      "Class": "Physical",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Municipality with a specific WASH action plan",
+      "Indicator Name": "Municipality with a specific WASH action plan",
+      "Component": "Adaptive Capacity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Municipality with a specific disaster action plan",
+      "Indicator Name": "Municipality with a specific disaster action plan",
+      "Component": "Adaptive capacity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Percentage of household population with E. coli in household drinking water",
+      "Indicator Name": "Percentage of household population with E. coli in household drinking water",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Percentage of poor households ",
+      "Indicator Name": "Percentage of poor households ",
+      "Component": "Sensitivity",
+      "Class": "Financial",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Water fetching duration over 3 hours",
+      "Indicator Name": "Water fetching duration over 3 hours",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Water fetching duration between 1-3 hours",
+      "Indicator Name": "Water fetching duration between 1-3 hours",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Water schemes need major repair",
+      "Indicator Name": "Water schemes need major repair",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Water schemes need rehabilitation",
+      "Indicator Name": "Water schemes need rehabilitation",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Amount of tariff collected by water supply scheme in rupees",
+      "Indicator Name": "Amount of tariff collected by water supply scheme in rupees",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of households using beach/chlorine as water treatment",
+      "Indicator Name": "Number of households using beach/chlorine as water treatment",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of households using water treatment as - Use a water filter",
+      "Indicator Name": "Number of households using water treatment as - Use a water filter",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of households using solar disinfection as water treatment",
+      "Indicator Name": "Number of households using solar disinfection as water treatment",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of households with rainwater harvesting",
+      "Indicator Name": "Number of households with rainwater harvesting",
+      "Component": "Sensitivity",
+      "Class": "Physical",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of schemes with Water Users and Sanitation Committee  registered",
+      "Indicator Name": "Number of schemes with Water Users and Sanitation Committee  registered",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    },
+    {
+      "Indicator Header": "Number of schemes with Water Supply and Sanitation Technician",
+      "Indicator Name": "Number of schemes with Water Supply and Sanitation Technician",
+      "Component": "Sensitivity",
+      "Class": "Political (and institutional)",
+      "Remarks": "No data"
+    }
+]

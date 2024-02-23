@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.2.3/css/fixedHeader.dataTables.min.css">
+    <link type="text/css" href="//gyrocode.github.io/jquery-datatables-checkboxes/1.2.12/css/dataTables.checkboxes.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/select/1.7.0/css/select.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <style>
+         #logo{
+            display: flex;
+            align-items: center;
+        }
+        .dist_div {
+        display: flex;
+        /* justify-content: space-between; */
+        padding: 0 5% 0 2%;
+        background: #3e7ad8;
+        margin-bottom: 0px;
+        /* height: 70px; */
+        }
+        .main-title {
+        float: left;
+        padding-left: 15px;
+        color: aliceblue;
+        font-size: 22px;
+        }
+        .main-title h3 {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="">
+    <div class="dist_div">
+        <div id="logo"><a href="index.html"><img src="image/GIIS-logo.png" alt="IWMI" width="170"></a></div>
+            <div>
+              <h3 class="main-title">Vulnerability and Risk Assessment (MULVAR)</h3>
+            <!-- <h2 style="padding-left: 25px; padding-top: 5px; align-items: center;"> Vulnerability and Risk Assessment</h2> -->
+            </div>
+            <div id="logo" style="margin-left: auto;"><a href="index.html"><img src="image/iwmi-logo-full-trans-white-43h (1).png" alt="IWMI" width="150"></a></div>
+    </div>
+    <div class="container">
+        <table id="example" class="display" width="100%">
+            <thead>
+                <tr>
+                    <th>Province</th>
+                    <th>District</th>
+                    <th>Municipality</th>
+                    <th>Component.</th>
+                    <th>Indicator</th>
+                    <th>Normalized Value</th>
+                    <th>Raw(Actual) Value</th>
+                </tr>
+            </thead>
+            <!-- <tfoot>
+                <tr>
+                    <th>Province</th>
+                    <th>District</th>
+                    <th>Municipality</th>
+                    <th>Component.</th>
+                    <th>Indicator</th>
+                    <th>Value</th>
+                </tr>
+            </tfoot> -->
+        </table>
+    </div>
+    </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>  
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script type="text/javascript" src="//gyrocode.github.io/jquery-datatables-checkboxes/1.2.12/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/fixedheader/3.2.3/js/dataTables.fixedHeader.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.html5.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.print.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/select/1.7.0/js/dataTables.select.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>  
+<script src="js/data.js"></script>
+<script>
+    
+ 
+// new DataTable('#example', {
+//     'ajax': '/lab/jquery-datatables-checkboxes/ids-arrays.txt',
+//     columns: [
+        
+//         { title: 'Province' },
+//         { title: 'District' },
+//         { title: 'Municipality' },
+//         { title: 'Component.' },
+//         { title: 'Indicator' },
+//         { title: 'Value' },
+       
+//     ],
+//     data: valuesOnly,
+//     pageLength: 20,
+//     dom: 'Bfrtip',
+//     buttons: [
+//         'copy', 'csv', 'excel', 'pdf', 'print'
+//     ],
+//     columnDefs: [
+//         {
+//             orderable: false,
+//             className: 'select-checkbox',
+//             targets: 0,
+//             checkboxes: {
+//                 selectRow: true
+//             }
+//         }
+//     ],
+//     select: {
+//         style: 'multi'
+//     },
+//     order: [[1, 'asc']]
+// });
+</script>
+</body>
+</html>

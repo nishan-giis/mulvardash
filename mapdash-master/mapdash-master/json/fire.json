@@ -1,0 +1,2219 @@
+
+[
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 1994,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 1995,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 1996,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 1997,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 2012,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 2013,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Years": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 1993,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2016,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2019,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60601,
+    "Municipality": "Naumule",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Very High"
+  },
+  {
+    "LCode": 60602,
+    "Municipality": "Mahabu",
+    "Years": 2001,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60602,
+    "Municipality": "Mahabu",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60603,
+    "Municipality": "Bhairabi",
+    "Years": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60603,
+    "Municipality": "Bhairabi",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60603,
+    "Municipality": "Bhairabi",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60604,
+    "Municipality": "Thantikandh",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60605,
+    "Municipality": "Aathbis",
+    "Years": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60605,
+    "Municipality": "Aathbis",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60606,
+    "Municipality": "Chamunda Bindrasaini",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60606,
+    "Municipality": "Chamunda Bindrasaini",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2016,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2017,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2018,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60607,
+    "Municipality": "Dullu",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60608,
+    "Municipality": "Narayan",
+    "Years": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60608,
+    "Municipality": "Narayan",
+    "Years": 2017,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60608,
+    "Municipality": "Narayan",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60608,
+    "Municipality": "Narayan",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60609,
+    "Municipality": "Bhagawatimai",
+    "Years": 2022,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 60610,
+    "Municipality": "Dungeshwor",
+    "Years": 2004,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 60610,
+    "Municipality": "Dungeshwor",
+    "Years": 2007,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 60610,
+    "Municipality": "Dungeshwor",
+    "Years": 2019,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 60610,
+    "Municipality": "Dungeshwor",
+    "Years": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 60611,
+    "Municipality": "Gurans",
+    "Years": 2008,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60611,
+    "Municipality": "Gurans",
+    "Years": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60611,
+    "Municipality": "Gurans",
+    "Years": 2016,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 60611,
+    "Municipality": "Gurans",
+    "Years": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1977,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1982,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1991,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1993,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1995,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1996,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 1997,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 7,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 12,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 15,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 13,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 0,
+    "Municipality": "No Data",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1972,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1973,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1983,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1985,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1989,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 1999,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2000,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 7,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 7,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20501,
+    "Municipality": "Lalbandi",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 1983,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2004,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2008,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 16,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 8,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20502,
+    "Municipality": "Hariban",
+    "Year": 2023,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 1984,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 1986,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 1999,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2004,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20503,
+    "Municipality": "Bagmati",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 1974,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 1976,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 1978,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 1979,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 1999,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 10,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 11,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20504,
+    "Municipality": "Barahathawa",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 1972,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 1992,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 7,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20505,
+    "Municipality": "Haripur",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2004,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20506,
+    "Municipality": "Ishworpur",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20507,
+    "Municipality": "Haripurwa",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20508,
+    "Municipality": "Parsa",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20509,
+    "Municipality": "Brahmapuri",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 7,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20510,
+    "Municipality": "Chandranagar",
+    "Year": 2023,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 1973,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20511,
+    "Municipality": "Kabilashi",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2007,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20512,
+    "Municipality": "Chakraghatta",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20513,
+    "Municipality": "Basbariya",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 1982,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 1998,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 1999,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2000,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20514,
+    "Municipality": "Dhankaul",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 6,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20515,
+    "Municipality": "Ramnagar",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 1983,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2007,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 8,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20516,
+    "Municipality": "Balara",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 1981,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 1982,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2014,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20517,
+    "Municipality": "Godaita",
+    "Year": 2023,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2012,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2013,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2017,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 4,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Low"
+  },
+  {
+    "LCode": 20518,
+    "Municipality": "Bishnu",
+    "Year": 2023,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Very Low"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 5,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20519,
+    "Municipality": "Kaudena",
+    "Year": 2023,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "Medium"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2004,
+    "Event": "Fire",
+    "Count": 1,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2009,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2011,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2015,
+    "Event": "Fire",
+    "Count": 2,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2016,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2018,
+    "Event": "Fire",
+    "Count": 3,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2019,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2020,
+    "Event": "Fire",
+    "Count": 10,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2021,
+    "Event": "Fire",
+    "Count": 13,
+    "Total_Count": "High"
+  },
+  {
+    "LCode": 20520,
+    "Municipality": "Malangawa",
+    "Year": 2022,
+    "Event": "Fire",
+    "Count": 9,
+    "Total_Count": "High"
+  }
+]

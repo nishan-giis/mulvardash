@@ -1,0 +1,390 @@
+[
+  {
+    "D_np": "ताप्लेजुंग",
+    "Lcode": 101,
+    "D_en": "Taplejung"
+  },
+  {
+    "D_np": "संखुवासभा",
+    "Lcode": 102,
+    "D_en": "Sankhuwasabha"
+  },
+  {
+    "D_np": "सोलुखुम्बु",
+    "Lcode": 103,
+    "D_en": "Solukhumbu"
+  },
+  {
+    "D_np": "ओखलढुंगा",
+    "Lcode": 104,
+    "D_en": "Okhaldhunga"
+  },
+  {
+    "D_np": "खोटाङ",
+    "Lcode": 105,
+    "D_en": "Khotang"
+  },
+  {
+    "D_np": "भोजपुर",
+    "Lcode": 106,
+    "D_en": "Bhojpur"
+  },
+  {
+    "D_np": "धनकुटा",
+    "Lcode": 107,
+    "D_en": "Dhankuta"
+  },
+  {
+    "D_np": "तेर्हथुम",
+    "Lcode": 108,
+    "D_en": "Tehrathum"
+  },
+  {
+    "D_np": "पाँचथर",
+    "Lcode": 109,
+    "D_en": "Pachthar"
+  },
+  {
+    "D_np": "ईलाम",
+    "Lcode": 110,
+    "D_en": "Illam"
+  },
+  {
+    "D_np": "झापा",
+    "Lcode": 111,
+    "D_en": "Jhapa"
+  },
+  {
+    "D_np": "मोरङ्ग",
+    "Lcode": 112,
+    "D_en": "Morang"
+  },
+  {
+    "D_np": "सुनसरी",
+    "Lcode": 113,
+    "D_en": "Sunsari"
+  },
+  {
+    "D_np": "उदयपुर",
+    "Lcode": 114,
+    "D_en": "Udayapur"
+  },
+  {
+    "D_np": "सप्तरी",
+    "Lcode": 201,
+    "D_en": "Saptari"
+  },
+  {
+    "D_np": "सिराहा",
+    "Lcode": 202,
+    "D_en": "Siraha"
+  },
+  {
+    "D_np": "धनुषा",
+    "Lcode": 203,
+    "D_en": "Dhanusha"
+  },
+  {
+    "D_np": "महोत्तरी",
+    "Lcode": 204,
+    "D_en": "Mohattari"
+  },
+  {
+    "D_np": "सर्लाही",
+    "Lcode": 205,
+    "D_en": "Sarlahi"
+  },
+  {
+    "D_np": "रौतहट",
+    "Lcode": 206,
+    "D_en": "Rautahat"
+  },
+  {
+    "D_np": "बारा",
+    "Lcode": 207,
+    "D_en": "Bara"
+  },
+  {
+    "D_np": "पर्सा",
+    "Lcode": 208,
+    "D_en": "Parsa"
+  },
+  {
+    "D_np": "दोलखा",
+    "Lcode": 301,
+    "D_en": "Dolakha"
+  },
+  {
+    "D_np": "सिन्धुपाल्चोक",
+    "Lcode": 302,
+    "D_en": "Sindhupalchok"
+  },
+  {
+    "D_np": "रसुवा",
+    "Lcode": 303,
+    "D_en": "Rasuwa"
+  },
+  {
+    "D_np": "धादिङ्ग",
+    "Lcode": 304,
+    "D_en": "Dhading"
+  },
+  {
+    "D_np": "नुवाकोट",
+    "Lcode": 305,
+    "D_en": "Nuwakot"
+  },
+  {
+    "D_np": "काठमाडौं",
+    "Lcode": 306,
+    "D_en": "Kathmandu"
+  },
+  {
+    "D_np": "भक्तपुर",
+    "Lcode": 307,
+    "D_en": "Bhaktapur"
+  },
+  {
+    "D_np": "ललितपुर",
+    "Lcode": 308,
+    "D_en": "Lalitpur"
+  },
+  {
+    "D_np": "काभ्रेपलाञ्चोक",
+    "Lcode": 309,
+    "D_en": "Kavrepalanchok"
+  },
+  {
+    "D_np": "रामेछाप",
+    "Lcode": 310,
+    "D_en": "Ramechhap"
+  },
+  {
+    "D_np": "सिन्धुली",
+    "Lcode": 311,
+    "D_en": "Sindhuli"
+  },
+  {
+    "D_np": "मकवानपुर",
+    "Lcode": 312,
+    "D_en": "Makwanpur"
+  },
+  {
+    "D_np": "चितवन",
+    "Lcode": 313,
+    "D_en": "Chitwan"
+  },
+  {
+    "D_np": "गोरखा",
+    "Lcode": 401,
+    "D_en": "Gorkha"
+  },
+  {
+    "D_np": "मनाङ्ग",
+    "Lcode": 402,
+    "D_en": "Manang"
+  },
+  {
+    "D_np": "मुस्तांग",
+    "Lcode": 403,
+    "D_en": "Mustang"
+  },
+  {
+    "D_np": "म्याग्दी",
+    "Lcode": 404,
+    "D_en": "Myagdi"
+  },
+  {
+    "D_np": "कास्की",
+    "Lcode": 405,
+    
+    "D_en": "Kaski"
+  },
+  {
+    "D_np": "लमजुंग",
+    "Lcode": 406,
+    "D_en": "Lamjung"
+  },
+  {
+    "D_np": "तनहुँ",
+    "Lcode": 407,
+    "D_en": "Tanahu"
+  },
+  {
+    "D_np": "नवलपरासी (पूर्व)",
+    "Lcode": "408",
+    "D_en": "Nawalparasi (East)"
+  },
+  {
+    "D_np": "स्याङ्जा",
+    "Lcode": 409,
+    "D_en": "Syangja"
+  },
+  {
+    "D_np": "पर्वत",
+    "Lcode": 410,
+    
+    "D_en": "Parbat"
+  },
+  {
+    "D_np": "बागलुङ",
+    "Lcode": 411,
+    
+    "D_en": "Baglung"
+  },
+  {
+    "D_np": "रुकुम (पूर्व)",
+    "Lcode": "501",
+    "D_en": "Rukum (East)"
+  },
+  {
+    "D_np": "रोल्पा",
+    "Lcode": 502,
+    "D_en": "Rolpa"
+  },
+  {
+    "D_np": "प्यूठान",
+    "Lcode": 503,
+    "D_en": "Pyuthan"
+  },
+  {
+    "D_np": "गुल्मी",
+    "Lcode": 504,
+    "D_en": "Gulmi"
+  },
+  {
+    "D_np": "अर्घाखांची",
+    "Lcode": 505,
+    "D_en": "Arghakhanchi"
+  },
+  {
+    "D_np": "पाल्पा",
+    "Lcode": 506,
+    "D_en": "Palpa"
+  },
+  {
+    "D_np": "नवलपरासी (पश्चिम)",
+    "Lcode": "507",
+    "D_en": "Nawalparasi (West)"
+  },
+  {
+    "D_np": "रुपन्देही",
+    "Lcode": 508,
+    "D_en": "Rupandehi"
+  },
+  {
+    "D_np": "कपिलवस्तु",
+    "Lcode": 509,
+    "D_en": "Kapilbastu"
+  },
+  {
+    "D_np": "दाङ",
+    "Lcode": 510,
+    "D_en": "Dang"
+  },
+  {
+    "D_np": "बाँके",
+    "Lcode": 511,
+    "D_en": "Banke"
+  },
+  {
+    "D_np": "बर्दिया",
+    "Lcode": 512,
+    "D_en": "Bardiya"
+  },
+  {
+    "D_np": "डोल्पा",
+    "Lcode": 601,
+    "D_en": "Dolpa"
+  },
+  {
+    "D_np": "मुगु",
+    "Lcode": 602,
+    "D_en": "Mugu"
+  },
+  {
+    "D_np": "हुम्ला",
+    "Lcode": 603,
+    "D_en": "Humla"
+  },
+  {
+    "D_np": "जुम्ला",
+    "Lcode": 604,
+    "D_en": "Jumla"
+  },
+  {
+    "D_np": "कालिकोट",
+    "Lcode": 605,
+    "D_en": "Kalikot"
+  },
+  {
+    "D_np": "दैलेख",
+    "Lcode": 606,
+    "D_en": "Dailekh"
+  },
+  {
+    "D_np": "जाजरकोट",
+    "Lcode": 607,
+    "D_en": "Jajarkot"
+  },
+  {
+    "D_np": "रुकुम (पश्चिम)",
+    "Lcode": "608",
+    "D_en": "Rukum (West)"
+  },
+  {
+    "D_np": "सल्यान",
+    "Lcode": 609,
+    "D_en": "Salyan"
+  },
+  {
+    "D_np": "सुर्खेत",
+    "Lcode": 610,
+    "D_en": "Surkhet"
+  },
+  {
+    "D_np": "बाजुरा",
+    "Lcode": 701,
+    "D_en": "Bajura"
+  },
+  {
+    "D_np": "बझाङ्ग",
+    "Lcode": 702,
+    "D_en": "Bajhang"
+  },
+  {
+    "D_np": "दार्चुला",
+    "Lcode": 703,
+    "D_en": "Darchula"
+  },
+  {
+    "D_np": "बैतडी",
+    "Lcode": 704,
+    "D_en": "Baitadi"
+  },
+  {
+    "D_np": "डडेलधुरा",
+    "Lcode": 705,
+    "D_en": "Dadeldhura"
+  },
+  {
+    "D_np": "डोटी",
+    "Lcode": 706,
+    "D_en": "Doti"
+  },
+  {
+    "D_np": "अछाम",
+    "Lcode": 707,
+    "D_en": "Achham"
+  },
+  {
+    "D_np": "कैलाली",
+    "Lcode": 708,
+    "D_en": "Kailali"
+  },
+  {
+    "D_np": "कंचनपुर",
+    "Lcode": 709,
+    "D_en": "Kanchanpur"
+  }
+]
